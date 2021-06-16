@@ -49,6 +49,11 @@ x+ - matches the preceding item "x" 1 or more times. Equivalent to {1,}
 
 A bracket expression is a list of characters wrapped in the '[' and ']' brackets. The bracket expression matches any single character in that list. If the starting character is the caret '^', it matches any character NOT in that list. 
 
+Examples:
+
+- [0123456789] - matches any character between the brackets
+- [^012345678] - matches any character NOT between the brackets
+
 ### Character Classes
 Character classes are used to distinguish between the different types of characters, like distinguishing between letters and digits.
 
