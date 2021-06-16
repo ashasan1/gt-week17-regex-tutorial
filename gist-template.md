@@ -70,9 +70,10 @@ Examples:
 ### The OR Operator
 
 ### Flags
+Flags are ______ that can be added on to an expression to make it search in a new way. 
 
 ### Character Escapes
 
 ## Author
-
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Asha Sanford is a web developer and animation gradute from Atlanta, GA. 
+For more information, please visit my Github : https://github.com/ashasan1
