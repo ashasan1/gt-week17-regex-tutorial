@@ -45,6 +45,9 @@ x+ - matches the preceding item "x" 1 or more times. Equivalent to {1,}
 
 ### Grouping Constructs
 
+Grouping combines a string to make it match in a unified block.
+
+
 ### Bracket Expressions
 
 A bracket expression is a list of characters wrapped in the '[' and ']' brackets. The bracket expression matches any single character in that list. If the starting character is the caret '^', it matches any character NOT in that list. 
